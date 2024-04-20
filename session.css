@@ -1,0 +1,51 @@
+/* Estilos para la página de registro */
+body {
+    margin-top: 50px;
+    margin-left: 300px;
+    margin-right: 300px;
+    
+    
+    }
+    
+    /* Estilos para los campos de entrada */
+    label {
+        font-weight: bold;
+       clip-path: none;
+    }
+    
+    input[type="text"],
+    input[type="password"] {
+        width: 100%;
+        padding: 10px;
+        margin-bottom: 20px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+    
+        
+        
+    }
+    
+    /* Estilos para el botón de registro */
+    button.submit {
+        background-color: #007bff;
+        color: #fff;
+        border: none;
+        padding: 10px 20px;
+        border-radius: 5px;
+        cursor: pointer;
+       
+    }
+    
+    /* Estilos para el enlace de inicio de sesión */
+    p a {
+        color: #007bff;
+        text-decoration: none;
+    }
+     h1, p{
+        text-align: center;
+        
+    }
+    
+    
+    
+    
